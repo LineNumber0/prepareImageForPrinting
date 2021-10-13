@@ -1,1 +1,1 @@
-# prepareImageForPrinting
+This JavaScript file will calculate the average color in grayscale of images and if it's below a minimum value it will be rendered in way that consumes less ink when printed in grayscale, the file can be added to a Web page with print button.
